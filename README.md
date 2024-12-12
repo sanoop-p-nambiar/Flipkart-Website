@@ -1,4 +1,4 @@
-<h1>Flipkart Clone Website (Retro Design)</h1>h1>
+<h1>Flipkart Clone Website (Retro Design)</h1>
 <h2>Welcome to the Flipkart Clone repository! This project is a simple clone of the Flipkart website, built using only HTML and CSS. The design aims to replicate a retro aesthetic reminiscent of early web design.</h2>
 <h3>Features</h3>
 <ol>
