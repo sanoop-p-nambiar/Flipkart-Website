@@ -32,7 +32,5 @@
 <ul>
   <li>Inspired by the original Flipkart design.</li>
   <li>Retro web design aesthetic drawn from early 2000s websites.</li>
-  <b>Stay tuned for updates as we continue to improve this project!</b>
-
-
 </ul>
+  <b><center>Stay tuned for updates as we continue to improve this project!</b></center>
