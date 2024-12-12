@@ -28,6 +28,8 @@
   <li>Push to the branch:git push origin feature-name</li>
   <li>Open a pull request.</li>
 </ol>
+<img>![image](https://github.com/user-attachments/assets/5d795df9-231f-4570-8314-09ca41d140a4)</img>
+
 <h3>Acknowledgments</h3>
 <ul>
   <li>Inspired by the original Flipkart design.</li>
